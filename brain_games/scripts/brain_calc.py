@@ -2,12 +2,12 @@ from brain_games.launcher import launcher
 
 from brain_games.engine import run_game
 
-from brain_games.scripts.games.even import generate_expression_and_answer
+from brain_games.scripts.games.calc import generate_expression_and_answer
 
 
 def main():
     launcher(
         run_game,
         generate_expression_and_answer,
-        'Answer "yes" if the number is even, otherwise answer "no".'
+        'What is the result of the expression?'
     )

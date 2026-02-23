@@ -11,3 +11,6 @@
 
 2. Game: “Checking for even numbers”
 [![asciicast](https://asciinema.org/a/5pQr4Qv3CDvwzcBn.svg)](https://asciinema.org/a/5pQr4Qv3CDvwzcBn)
+
+3. Game: “Calculator”
+[![asciicast](https://asciinema.org/a/K50yhRnv613TWvZH.svg)](https://asciinema.org/a/K50yhRnv613TWvZH)
