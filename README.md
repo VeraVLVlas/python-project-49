@@ -20,3 +20,15 @@
 
 5. Game: “Arithmetic Progression”
 [![asciicast](https://asciinema.org/a/bo9x5bPHdbgub2nk.svg)](https://asciinema.org/a/bo9x5bPHdbgub2nk)
+
+6. Game “Is it a prime number?”
+[![asciicast](https://asciinema.org/a/fXBaLrcdFG43Qvpl.svg)](https://asciinema.org/a/fXBaLrcdFG43Qvpl)
+
+Commands for running games
+--------------------------------
+1) Greetings  -  brain-games
+2) Game: "Parity check"  -  brain-even
+3) Game: "Calculator"  -  brain-calc
+4) Game: "GCD two numbers"  -  brain-gcd
+5) Game: "Arithmetic progression"  -  brain-progression
+6) Game: "Is it a prime number?"  -  brain-prime
