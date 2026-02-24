@@ -41,7 +41,7 @@ def generate_expression_and_answer():
 
     [prgs, answer] = hides_number_in_progression(progression)
     
-    expression = ', '.join(str(elem) for elem in prgs)
+    expression = ' '.join(str(elem) for elem in prgs)
     correct_answer = str(answer)
 
     return [
