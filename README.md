@@ -17,3 +17,6 @@
 
 4. Game: “GCD”
 [![asciicast](https://asciinema.org/a/OHHnmIbkj5EsuQ9L.svg)](https://asciinema.org/a/OHHnmIbkj5EsuQ9L)
+
+5. Game: “Arithmetic Progression”
+[![asciicast](https://asciinema.org/a/bo9x5bPHdbgub2nk.svg)](https://asciinema.org/a/bo9x5bPHdbgub2nk)
