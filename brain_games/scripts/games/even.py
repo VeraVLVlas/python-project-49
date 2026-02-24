@@ -1,5 +1,4 @@
 from brain_games.constants import MIN_RANDOM_NUMBER
-
 from brain_games.helpers import generate_random_number, is_even
 
 MAX_RANDOM_NUMBER = 100

@@ -14,3 +14,6 @@
 
 3. Game: “Calculator”
 [![asciicast](https://asciinema.org/a/K50yhRnv613TWvZH.svg)](https://asciinema.org/a/K50yhRnv613TWvZH)
+
+4. Game: “GCD”
+[![asciicast](https://asciinema.org/a/OHHnmIbkj5EsuQ9L.svg)](https://asciinema.org/a/OHHnmIbkj5EsuQ9L)

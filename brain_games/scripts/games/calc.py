@@ -1,7 +1,6 @@
 import random
 
 from brain_games.constants import MIN_RANDOM_NUMBER
-
 from brain_games.helpers import generate_random_number
 
 MAX_RANDOM_NUMBER = 20
@@ -31,7 +30,7 @@ def generate_numbers_and_operator():
 
 def generate_expression_and_answer():
     [number_1, number_2, operator] = generate_numbers_and_operator()
-    expression =  f'{number_1} {operator} {number_2}'
+    expression = f'{number_1} {operator} {number_2}'
     correct_answer = calculate(number_1, number_2, operator)
 
     return [
